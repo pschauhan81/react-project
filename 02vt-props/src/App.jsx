@@ -6,7 +6,6 @@ function App() {
   return (
     <>
       <Header texthead="hello DEveloper" />
-      <Header texthead="intern" />
     </>
   );
 }
