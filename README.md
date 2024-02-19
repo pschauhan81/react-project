@@ -1,1 +1,1 @@
-#this is raect mini project..
+#this is react mini project..
